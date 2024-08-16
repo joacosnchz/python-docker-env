@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.tfvars
+.terraform
+.terraform.lock.hcl
+*.tfstate*
+input
+output
+config
+.ipynb_checkpoints
